@@ -13,7 +13,7 @@ export default function Home() {
         <div className="flex flex-col items-center justify-top mt-10 ">
           <Link href="/create_card">
             <button className="abg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded ">
-              Create
+              Create.
             </button>
           </Link>
         </div>
